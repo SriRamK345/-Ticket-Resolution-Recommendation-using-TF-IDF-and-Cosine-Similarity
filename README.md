@@ -73,6 +73,7 @@ cd your-repo-name
 
 # Run the Streamlit app
 streamlit run app.py
+```
 
 ## Example Usage
 
@@ -81,7 +82,8 @@ Here’s an example of how you might use this app:
 - Enter an issue description: "My computer won't turn on."
 - Click "Get Resolution."
 - The app will display steps such as:
-  ```
-  **Step 1:** Check power cord and ensure it is properly connected
-  **Step 2:** Try using a different power outlet or replace the power supply if necessary.
-  ```
+
+```
+**Step 1:** Check power cord and ensure it is properly connected
+**Step 2:** Try using a different power outlet or replace the power supply if necessary.
+```
